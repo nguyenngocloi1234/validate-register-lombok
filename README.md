@@ -1,0 +1,1 @@
+# validate-register-lombok
